@@ -17,12 +17,12 @@ body {
 
 /* ATM Container */
 .atm-container {
-    background: rgba(255, 255, 255, 0.05);
+    background: rgba(1, 15, 6);
     border-radius: 20px;
     padding: 2rem;
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
     border: 1px solid rgba(255, 255, 255, 0.1);
-    max-width: 400px;
+    max-width: 500px;
     width: 100%;
 }
 
